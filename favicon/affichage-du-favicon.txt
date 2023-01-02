@@ -1,0 +1,3 @@
+Affichage du favicon:
+
+<link rel="icon" type="image/jpg" href="favicon/elax_favicon_orange.jpg">
